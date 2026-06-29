@@ -1,4 +1,4 @@
-# [Python] E-Wallet_Transactional_Analysis_ :Data Wrangling & Optimization
+# [Python] E-Wallet_Transactional_Analysis :Data Wrangling & Optimization
 
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
